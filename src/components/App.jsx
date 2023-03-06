@@ -1,5 +1,9 @@
 import React from "react";
 import Entry from "./Entry.jsx";
+import emojipedia from "../emojipedia.js";
+
+
+console.log(emojipedia);
 
 function App() {
   return (
